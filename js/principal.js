@@ -1,0 +1,1 @@
+var banner = ["Do lixo ao luxo!", "Reaproveitar é aproveitar!"];
